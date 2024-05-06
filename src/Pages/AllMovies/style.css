@@ -1,0 +1,10 @@
+.playBtn{
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgCard:hover .playBtn{
+    display: flex;
+    transition-property: 200ms;
+} 
